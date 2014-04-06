@@ -1,3 +1,3 @@
 void main(){
-    printf("main");
+    printf("main\n");
 }
